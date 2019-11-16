@@ -448,6 +448,11 @@ width: 100%
 visibility: visible;
 padding-top: 20px;
 }
+.testimonial-slideshow-container{
+overflow: hidden;
+width: 354px;
+height: 150px;
+}
 .youtube-sections{
 padding: auto;
 margin: auto;
